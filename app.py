@@ -4,7 +4,7 @@ import math
 
 import streamlit as st
 import numpy as np
-import cv2
+from cv2 import cv2
 from PIL import Image, ImageEnhance
 from keras.models import load_model
 
